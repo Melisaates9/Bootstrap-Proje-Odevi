@@ -1,0 +1,28 @@
+.navbar{
+    background: #1ea2a9af !important;
+}
+.hero{
+    background: #438077d2;
+    padding-top: calc(6rem + 74px);
+    padding-bottom: 6rem;
+}
+.avatar{
+    width: 15rem;
+
+}
+.portfolio-item{
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+.footer{
+    color: white;
+    background: rgba(4, 44, 44, 0.814);
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+.copyright{
+    background: #000000c7;
+}
+#about{
+    padding: 5rem;
+}
